@@ -1,0 +1,301 @@
+order_id,order_date,requested_delivery_date,promised_delivery_date,actual_delivery_date,carrier,region,product_category,lines_total,lines_delivered_complete,status
+SO-100000,2025-08-02,2025-08-08,2025-08-08,2025-08-05,Carrier C,Ege,Hirdavat,1,1,delivered
+SO-100001,2026-04-09,2026-04-18,2026-04-20,2026-04-17,Carrier A,Marmara,Hirdavat,2,2,delivered
+SO-100002,2026-02-24,2026-03-10,2026-03-11,2026-03-12,Carrier C,Ege,Yapi Malzemeleri,2,2,delivered
+SO-100003,2025-12-08,2025-12-19,2025-12-21,2025-12-21,Carrier B,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100004,2025-12-06,2025-12-12,2025-12-14,2025-12-14,Carrier A,Marmara,Endustriyel Ekipman,7,7,delivered
+SO-100005,2026-05-10,2026-05-21,2026-05-21,2026-05-21,Carrier C,Ege,Yapi Malzemeleri,4,4,delivered
+SO-100006,2025-08-01,2025-08-15,2025-08-15,2025-08-12,Carrier B,Ic Anadolu,Endustriyel Ekipman,6,6,delivered
+SO-100007,2026-03-12,2026-03-17,2026-03-18,2026-03-15,Carrier A,Karadeniz,Kimyasal,1,1,delivered
+SO-100008,2025-09-12,2025-09-17,2025-09-17,2025-09-18,Carrier A,Karadeniz,Yapi Malzemeleri,3,3,delivered
+SO-100009,2025-08-04,2025-08-07,2025-08-07,2025-08-06,Carrier B,Karadeniz,Endustriyel Ekipman,1,1,delivered
+SO-100010,2026-01-09,2026-01-22,2026-01-24,2026-01-22,Carrier A,Ic Anadolu,Hirdavat,4,4,delivered
+SO-100011,2026-06-22,2026-07-04,2026-07-05,2026-07-02,Carrier A,Ic Anadolu,Elektrik,1,1,delivered
+SO-100012,2026-03-26,2026-04-02,2026-04-02,2026-04-01,Carrier A,Marmara,Yapi Malzemeleri,7,7,delivered
+SO-100013,2026-04-04,2026-04-17,2026-04-19,2026-04-20,Carrier A,Ic Anadolu,Yapi Malzemeleri,5,5,delivered
+SO-100014,2026-03-19,2026-03-29,2026-03-29,2026-03-29,Carrier A,Marmara,Kimyasal,7,7,delivered
+SO-100015,2026-04-13,2026-04-27,2026-04-29,2026-05-02,Carrier B,Marmara,Yapi Malzemeleri,5,5,delivered
+SO-100016,2026-01-04,2026-01-18,2026-01-19,2026-01-20,Carrier A,Marmara,Elektrik,1,1,delivered
+SO-100017,2025-08-16,2025-08-30,2025-08-30,2025-09-02,Carrier A,Karadeniz,Hirdavat,3,3,delivered
+SO-100018,2026-05-03,2026-05-10,2026-05-10,2026-05-12,Carrier B,Ic Anadolu,Yapi Malzemeleri,1,1,delivered
+SO-100019,2025-12-12,2025-12-22,2025-12-22,2025-12-25,Carrier A,Export-EU,Hirdavat,1,1,delivered
+SO-100020,2025-12-30,2026-01-04,2026-01-05,2026-01-05,Carrier B,Export-EU,Yapi Malzemeleri,8,8,delivered
+SO-100021,2025-11-13,2025-11-26,2025-11-26,2025-11-26,Carrier A,Export-EU,Yapi Malzemeleri,8,8,delivered
+SO-100022,2025-09-05,2025-09-11,2025-09-11,2025-09-09,Carrier A,Marmara,Endustriyel Ekipman,1,1,delivered
+SO-100023,2026-06-04,2026-06-12,2026-06-12,2026-06-12,Carrier A,Karadeniz,Kimyasal,4,4,delivered
+SO-100024,2026-04-12,2026-04-22,2026-04-22,2026-04-20,Carrier B,Karadeniz,Yapi Malzemeleri,3,3,delivered
+SO-100025,2026-02-21,2026-03-05,2026-03-05,2026-03-04,Carrier A,Karadeniz,Yapi Malzemeleri,4,4,delivered
+SO-100026,2025-11-24,2025-12-05,2025-12-05,2025-12-07,Carrier C,Marmara,Kimyasal,5,5,delivered
+SO-100027,2026-04-27,2026-05-11,2026-05-11,2026-05-11,Carrier A,Marmara,Yapi Malzemeleri,4,4,delivered
+SO-100028,2026-01-16,2026-01-27,2026-01-27,2026-01-29,Carrier B,Export-EU,Hirdavat,7,7,delivered
+SO-100029,2025-12-09,2025-12-21,2025-12-21,2025-12-19,Carrier B,Marmara,Elektrik,1,1,delivered
+SO-100030,2025-12-12,2025-12-21,2025-12-21,2025-12-20,Carrier A,Marmara,Elektrik,5,5,delivered
+SO-100031,2025-09-21,2025-09-28,2025-09-28,2025-09-25,Carrier B,Ege,Hirdavat,6,6,delivered
+SO-100032,2025-08-03,2025-08-16,2025-08-18,,Carrier A,Marmara,Hirdavat,5,0,cancelled
+SO-100033,2026-01-19,2026-01-26,2026-01-27,2026-01-28,Carrier A,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100034,2026-05-21,2026-05-31,2026-06-01,2026-06-03,Carrier A,Export-EU,Kimyasal,5,5,delivered
+SO-100035,2025-07-24,2025-07-30,2025-07-30,2025-08-02,Carrier C,Karadeniz,Kimyasal,2,2,delivered
+SO-100036,2026-05-10,2026-05-18,2026-05-19,2026-05-20,Carrier C,Export-EU,Kimyasal,7,7,delivered
+SO-100037,2026-04-29,2026-05-06,2026-05-08,2026-05-07,Carrier A,Marmara,Elektrik,3,3,delivered
+SO-100038,2025-10-10,2025-10-16,2025-10-16,2025-10-16,Carrier B,Marmara,Elektrik,2,2,delivered
+SO-100039,2026-02-16,2026-02-28,2026-03-02,2026-02-28,Carrier C,Ege,Elektrik,5,5,delivered
+SO-100040,2025-08-30,2025-09-11,2025-09-11,2025-09-09,Carrier A,Ege,Yapi Malzemeleri,6,6,delivered
+SO-100041,2026-04-03,2026-04-14,2026-04-14,2026-04-11,Carrier C,Marmara,Endustriyel Ekipman,4,4,delivered
+SO-100042,2026-03-13,2026-03-16,2026-03-17,2026-03-19,Carrier B,Ic Anadolu,Elektrik,1,1,delivered
+SO-100043,2025-11-07,2025-11-12,2025-11-14,2025-11-13,Carrier C,Export-EU,Elektrik,8,8,delivered
+SO-100044,2025-07-25,2025-07-30,2025-07-30,2025-07-28,Carrier C,Ege,Endustriyel Ekipman,7,7,delivered
+SO-100045,2026-06-20,2026-07-01,2026-07-01,2026-07-01,Carrier A,Ege,Endustriyel Ekipman,4,4,delivered
+SO-100046,2025-12-10,2025-12-23,2025-12-23,2025-12-23,Carrier A,Ege,Elektrik,3,3,delivered
+SO-100047,2026-05-22,2026-05-29,2026-05-30,2026-05-31,Carrier B,Marmara,Endustriyel Ekipman,8,8,delivered
+SO-100048,2026-03-05,2026-03-11,2026-03-11,2026-03-08,Carrier A,Marmara,Kimyasal,3,2,delivered
+SO-100049,2026-04-11,2026-04-20,2026-04-20,2026-04-18,Carrier A,Ege,Hirdavat,2,2,delivered
+SO-100050,2026-04-04,2026-04-18,2026-04-18,2026-04-15,Carrier C,Ege,Yapi Malzemeleri,3,3,delivered
+SO-100051,2025-09-10,2025-09-17,2025-09-18,2025-09-16,Carrier A,Ege,Yapi Malzemeleri,5,5,delivered
+SO-100052,2025-11-10,2025-11-16,2025-11-16,2025-11-18,Carrier B,Karadeniz,Elektrik,6,6,delivered
+SO-100053,2025-12-18,2025-12-27,2025-12-27,,Carrier C,Marmara,Endustriyel Ekipman,3,0,cancelled
+SO-100054,2025-12-29,2026-01-11,2026-01-12,2026-01-10,Carrier A,Marmara,Hirdavat,2,1,delivered
+SO-100055,2025-07-16,2025-07-27,2025-07-27,2025-07-27,Carrier B,Marmara,Yapi Malzemeleri,8,5,delivered
+SO-100056,2026-01-16,2026-01-25,2026-01-25,2026-01-24,Carrier C,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100057,2025-08-26,2025-09-06,2025-09-06,2025-09-04,Carrier B,Ege,Endustriyel Ekipman,5,5,delivered
+SO-100058,2026-03-29,2026-04-01,2026-04-01,2026-04-03,Carrier A,Karadeniz,Hirdavat,2,2,delivered
+SO-100059,2026-03-07,2026-03-19,2026-03-20,2026-03-19,Carrier A,Export-EU,Kimyasal,6,6,delivered
+SO-100060,2026-06-02,2026-06-06,2026-06-06,2026-06-06,Carrier C,Ic Anadolu,Kimyasal,4,4,delivered
+SO-100061,2026-03-29,2026-04-05,2026-04-06,2026-04-05,Carrier A,Ege,Endustriyel Ekipman,1,0,delivered
+SO-100062,2025-11-11,2025-11-18,2025-11-18,2025-11-21,Carrier B,Marmara,Hirdavat,2,1,delivered
+SO-100063,2026-06-19,2026-06-30,2026-07-02,2026-07-03,Carrier A,Ege,Yapi Malzemeleri,4,3,delivered
+SO-100064,2025-11-27,2025-12-02,2025-12-03,2025-12-04,Carrier A,Marmara,Elektrik,2,2,delivered
+SO-100065,2025-10-27,2025-11-01,2025-11-01,2025-10-29,Carrier C,Karadeniz,Kimyasal,5,5,delivered
+SO-100066,2026-05-27,2026-06-09,2026-06-10,2026-06-09,Carrier B,Ege,Endustriyel Ekipman,7,7,delivered
+SO-100067,2025-11-13,2025-11-21,2025-11-21,2025-11-20,Carrier C,Marmara,Kimyasal,3,3,delivered
+SO-100068,2025-07-28,2025-08-08,2025-08-10,2025-08-08,Carrier A,Marmara,Yapi Malzemeleri,8,8,delivered
+SO-100069,2025-12-19,2025-12-28,2025-12-30,,Carrier B,Marmara,Yapi Malzemeleri,6,0,cancelled
+SO-100070,2026-04-17,2026-04-27,2026-04-29,2026-04-28,Carrier C,Export-EU,Elektrik,1,1,delivered
+SO-100071,2025-09-08,2025-09-19,2025-09-20,2025-09-21,Carrier A,Marmara,Kimyasal,4,4,delivered
+SO-100072,2025-12-16,2025-12-27,2025-12-27,2025-12-30,Carrier A,Marmara,Endustriyel Ekipman,5,3,delivered
+SO-100073,2025-08-17,2025-08-30,2025-08-31,2025-09-01,Carrier C,Marmara,Hirdavat,5,3,delivered
+SO-100074,2026-03-08,2026-03-20,2026-03-20,2026-03-17,Carrier A,Karadeniz,Yapi Malzemeleri,4,4,delivered
+SO-100075,2025-12-21,2025-12-27,2025-12-27,2025-12-29,Carrier B,Ege,Hirdavat,3,2,delivered
+SO-100076,2025-10-29,2025-11-03,2025-11-05,2025-11-03,Carrier C,Ic Anadolu,Elektrik,5,5,delivered
+SO-100077,2025-09-21,2025-10-04,2025-10-05,2025-10-06,Carrier A,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100078,2026-01-23,2026-01-30,2026-01-31,2026-01-28,Carrier A,Marmara,Hirdavat,7,7,delivered
+SO-100079,2026-03-02,2026-03-08,2026-03-09,2026-03-06,Carrier A,Karadeniz,Hirdavat,1,1,delivered
+SO-100080,2026-06-09,2026-06-13,2026-06-14,2026-06-11,Carrier A,Marmara,Elektrik,2,2,delivered
+SO-100081,2025-12-07,2025-12-16,2025-12-16,2025-12-19,Carrier A,Marmara,Yapi Malzemeleri,5,5,delivered
+SO-100082,2025-08-28,2025-09-06,2025-09-06,2025-09-07,Carrier B,Ege,Yapi Malzemeleri,4,4,delivered
+SO-100083,2026-04-30,2026-05-12,2026-05-12,2026-05-12,Carrier A,Marmara,Kimyasal,8,8,delivered
+SO-100084,2026-02-15,2026-02-26,2026-02-26,2026-02-23,Carrier B,Marmara,Elektrik,5,5,delivered
+SO-100085,2026-03-13,2026-03-24,2026-03-24,2026-03-24,Carrier A,Karadeniz,Hirdavat,2,2,delivered
+SO-100086,2025-08-05,2025-08-14,2025-08-16,2025-08-13,Carrier A,Ege,Elektrik,7,7,delivered
+SO-100087,2025-10-23,2025-11-05,2025-11-06,2025-11-03,Carrier A,Marmara,Hirdavat,7,7,delivered
+SO-100088,2026-04-07,2026-04-21,2026-04-21,2026-04-19,Carrier B,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100089,2026-04-30,2026-05-12,2026-05-13,2026-05-12,Carrier B,Ic Anadolu,Endustriyel Ekipman,8,8,delivered
+SO-100090,2025-12-06,2025-12-13,2025-12-15,,Carrier A,Marmara,Elektrik,3,0,cancelled
+SO-100091,2026-04-20,2026-04-26,2026-04-26,2026-04-27,Carrier C,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100092,2026-05-04,2026-05-07,2026-05-09,2026-05-09,Carrier B,Ic Anadolu,Yapi Malzemeleri,1,1,delivered
+SO-100093,2025-11-19,2025-12-03,2025-12-05,2025-12-03,Carrier A,Ic Anadolu,Elektrik,1,1,delivered
+SO-100094,2026-05-24,2026-06-04,2026-06-04,2026-06-04,Carrier C,Export-EU,Hirdavat,1,1,delivered
+SO-100095,2025-10-14,2025-10-28,2025-10-29,2025-10-27,Carrier A,Marmara,Elektrik,7,7,delivered
+SO-100096,2025-09-26,2025-10-08,2025-10-10,2025-10-08,Carrier A,Marmara,Yapi Malzemeleri,8,8,delivered
+SO-100097,2026-03-07,2026-03-15,2026-03-16,,Carrier B,Ege,Kimyasal,8,0,cancelled
+SO-100098,2026-02-18,2026-02-22,2026-02-24,2026-02-21,Carrier A,Ic Anadolu,Yapi Malzemeleri,5,5,delivered
+SO-100099,2025-08-21,2025-08-24,2025-08-24,2025-08-24,Carrier A,Marmara,Yapi Malzemeleri,3,3,delivered
+SO-100100,2026-04-30,2026-05-12,2026-05-12,2026-05-10,Carrier B,Ege,Kimyasal,8,8,delivered
+SO-100101,2025-09-11,2025-09-17,2025-09-17,2025-09-15,Carrier A,Marmara,Hirdavat,8,8,delivered
+SO-100102,2026-04-20,2026-04-27,2026-04-29,2026-05-01,Carrier C,Karadeniz,Kimyasal,4,4,delivered
+SO-100103,2025-07-03,2025-07-16,2025-07-18,2025-07-16,Carrier C,Karadeniz,Hirdavat,2,2,delivered
+SO-100104,2026-04-17,2026-04-25,2026-04-25,2026-04-25,Carrier B,Ege,Elektrik,7,7,delivered
+SO-100105,2026-04-14,2026-04-28,2026-04-30,2026-04-29,Carrier B,Export-EU,Yapi Malzemeleri,3,3,delivered
+SO-100106,2026-04-11,2026-04-20,2026-04-22,2026-04-21,Carrier B,Export-EU,Endustriyel Ekipman,5,5,delivered
+SO-100107,2026-02-28,2026-03-12,2026-03-12,2026-03-10,Carrier C,Marmara,Kimyasal,8,8,delivered
+SO-100108,2025-12-20,2025-12-24,2025-12-24,2025-12-25,Carrier A,Marmara,Hirdavat,2,2,delivered
+SO-100109,2026-03-15,2026-03-22,2026-03-22,2026-03-23,Carrier A,Ic Anadolu,Endustriyel Ekipman,3,3,delivered
+SO-100110,2025-10-10,2025-10-15,2025-10-15,2025-10-17,Carrier B,Marmara,Endustriyel Ekipman,2,2,delivered
+SO-100111,2026-04-11,2026-04-14,2026-04-14,2026-04-12,Carrier B,Ege,Yapi Malzemeleri,7,7,delivered
+SO-100112,2026-01-19,2026-02-02,2026-02-02,2026-01-30,Carrier A,Marmara,Endustriyel Ekipman,1,0,delivered
+SO-100113,2025-12-15,2025-12-24,2025-12-24,2025-12-22,Carrier B,Export-EU,Hirdavat,2,2,delivered
+SO-100114,2026-01-01,2026-01-08,2026-01-10,2026-01-10,Carrier A,Ege,Yapi Malzemeleri,3,3,delivered
+SO-100115,2026-01-24,2026-01-31,2026-02-02,,Carrier C,Ic Anadolu,Endustriyel Ekipman,4,0,cancelled
+SO-100116,2025-07-14,2025-07-19,2025-07-20,2025-07-20,Carrier A,Ege,Kimyasal,6,6,delivered
+SO-100117,2025-08-21,2025-08-25,2025-08-25,2025-08-22,Carrier A,Marmara,Elektrik,8,8,delivered
+SO-100118,2025-09-28,2025-10-11,2025-10-11,2025-10-11,Carrier A,Karadeniz,Endustriyel Ekipman,5,5,delivered
+SO-100119,2025-08-11,2025-08-15,2025-08-15,2025-08-16,Carrier A,Marmara,Endustriyel Ekipman,2,2,delivered
+SO-100120,2025-12-08,2025-12-15,2025-12-17,2025-12-16,Carrier A,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100121,2026-03-01,2026-03-05,2026-03-05,2026-03-07,Carrier A,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100122,2026-02-24,2026-03-10,2026-03-11,2026-03-08,Carrier A,Ic Anadolu,Yapi Malzemeleri,1,1,delivered
+SO-100123,2025-12-19,2025-12-24,2025-12-25,2025-12-25,Carrier A,Marmara,Yapi Malzemeleri,8,8,delivered
+SO-100124,2026-05-09,2026-05-16,2026-05-16,2026-05-13,Carrier A,Marmara,Yapi Malzemeleri,5,5,delivered
+SO-100125,2026-01-23,2026-02-04,2026-02-04,2026-02-04,Carrier A,Marmara,Endustriyel Ekipman,7,7,delivered
+SO-100126,2025-07-29,2025-08-07,2025-08-07,2025-08-07,Carrier A,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100127,2026-04-06,2026-04-13,2026-04-14,2026-04-15,Carrier A,Marmara,Kimyasal,8,8,delivered
+SO-100128,2026-01-26,2026-02-04,2026-02-06,2026-02-05,Carrier A,Ege,Yapi Malzemeleri,8,8,delivered
+SO-100129,2026-02-17,2026-02-25,2026-02-25,2026-02-25,Carrier A,Marmara,Endustriyel Ekipman,8,8,delivered
+SO-100130,2026-01-23,2026-01-29,2026-01-31,2026-01-29,Carrier A,Marmara,Hirdavat,5,5,delivered
+SO-100131,2026-01-19,2026-01-29,2026-01-29,2026-01-30,Carrier C,Ic Anadolu,Yapi Malzemeleri,1,1,delivered
+SO-100132,2025-08-03,2025-08-10,2025-08-11,2025-08-09,Carrier C,Ic Anadolu,Endustriyel Ekipman,4,4,delivered
+SO-100133,2026-01-21,2026-02-04,2026-02-05,2026-02-06,Carrier C,Marmara,Hirdavat,5,5,delivered
+SO-100134,2026-04-17,2026-04-25,2026-04-27,2026-04-30,Carrier B,Marmara,Elektrik,4,4,delivered
+SO-100135,2025-10-19,2025-10-31,2025-10-31,2025-10-30,Carrier B,Marmara,Yapi Malzemeleri,4,4,delivered
+SO-100136,2026-02-06,2026-02-11,2026-02-11,2026-02-10,Carrier A,Export-EU,Hirdavat,3,3,delivered
+SO-100137,2025-07-12,2025-07-22,2025-07-23,2025-07-22,Carrier C,Marmara,Elektrik,6,6,delivered
+SO-100138,2025-11-04,2025-11-13,2025-11-14,2025-11-12,Carrier C,Marmara,Endustriyel Ekipman,5,5,delivered
+SO-100139,2025-12-07,2025-12-18,2025-12-18,2025-12-17,Carrier C,Ege,Yapi Malzemeleri,6,6,delivered
+SO-100140,2026-06-24,2026-07-02,2026-07-02,2026-07-03,Carrier C,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100141,2025-09-17,2025-09-28,2025-09-29,2025-09-29,Carrier A,Marmara,Hirdavat,2,2,delivered
+SO-100142,2025-10-09,2025-10-12,2025-10-13,2025-10-14,Carrier C,Marmara,Endustriyel Ekipman,8,8,delivered
+SO-100143,2025-11-27,2025-12-08,2025-12-08,2025-12-06,Carrier C,Ic Anadolu,Yapi Malzemeleri,7,7,delivered
+SO-100144,2026-06-28,2026-07-10,2026-07-10,2026-07-09,Carrier A,Ic Anadolu,Elektrik,6,6,delivered
+SO-100145,2026-05-08,2026-05-16,2026-05-17,2026-05-15,Carrier C,Ic Anadolu,Kimyasal,4,4,delivered
+SO-100146,2025-07-13,2025-07-16,2025-07-17,2025-07-16,Carrier A,Ic Anadolu,Yapi Malzemeleri,4,4,delivered
+SO-100147,2025-09-24,2025-10-03,2025-10-04,2025-10-03,Carrier C,Marmara,Yapi Malzemeleri,6,5,delivered
+SO-100148,2026-04-26,2026-05-08,2026-05-10,2026-05-10,Carrier C,Export-EU,Endustriyel Ekipman,7,7,delivered
+SO-100149,2025-07-22,2025-07-30,2025-07-31,2025-08-01,Carrier A,Ic Anadolu,Elektrik,4,4,delivered
+SO-100150,2026-05-09,2026-05-13,2026-05-15,2026-05-18,Carrier B,Karadeniz,Endustriyel Ekipman,8,8,delivered
+SO-100151,2025-10-11,2025-10-18,2025-10-20,2025-10-18,Carrier A,Ic Anadolu,Kimyasal,3,3,delivered
+SO-100152,2026-05-31,2026-06-14,2026-06-15,2026-06-12,Carrier C,Marmara,Yapi Malzemeleri,3,3,delivered
+SO-100153,2025-10-16,2025-10-22,2025-10-22,2025-10-22,Carrier C,Marmara,Endustriyel Ekipman,6,6,delivered
+SO-100154,2025-12-06,2025-12-15,2025-12-15,2025-12-16,Carrier B,Ege,Endustriyel Ekipman,7,7,delivered
+SO-100155,2026-02-27,2026-03-06,2026-03-06,2026-03-05,Carrier C,Marmara,Endustriyel Ekipman,5,5,delivered
+SO-100156,2025-08-16,2025-08-27,2025-08-29,2025-08-26,Carrier A,Ege,Endustriyel Ekipman,8,8,delivered
+SO-100157,2026-01-20,2026-01-28,2026-01-28,2026-01-30,Carrier A,Marmara,Hirdavat,7,7,delivered
+SO-100158,2026-01-01,2026-01-08,2026-01-08,2026-01-07,Carrier A,Marmara,Endustriyel Ekipman,2,2,delivered
+SO-100159,2026-04-13,2026-04-22,2026-04-22,2026-04-21,Carrier A,Export-EU,Hirdavat,7,7,delivered
+SO-100160,2026-06-29,2026-07-08,2026-07-09,2026-07-06,Carrier A,Ic Anadolu,Yapi Malzemeleri,7,7,delivered
+SO-100161,2026-02-28,2026-03-08,2026-03-10,2026-03-09,Carrier A,Ege,Elektrik,7,7,delivered
+SO-100162,2025-11-27,2025-12-03,2025-12-03,2025-12-03,Carrier A,Marmara,Endustriyel Ekipman,5,5,delivered
+SO-100163,2025-11-26,2025-11-30,2025-12-02,2025-12-02,Carrier A,Ege,Elektrik,7,7,delivered
+SO-100164,2025-11-30,2025-12-11,2025-12-12,2025-12-10,Carrier C,Export-EU,Yapi Malzemeleri,6,6,delivered
+SO-100165,2026-04-24,2026-05-01,2026-05-03,2026-05-02,Carrier A,Ic Anadolu,Kimyasal,8,8,delivered
+SO-100166,2025-10-26,2025-11-05,2025-11-05,2025-11-03,Carrier C,Ic Anadolu,Kimyasal,3,3,delivered
+SO-100167,2025-08-30,2025-09-06,2025-09-06,2025-09-07,Carrier A,Ege,Hirdavat,2,2,delivered
+SO-100168,2025-10-31,2025-11-13,2025-11-14,2025-11-14,Carrier A,Marmara,Kimyasal,7,7,delivered
+SO-100169,2025-07-09,2025-07-20,2025-07-20,2025-07-22,Carrier B,Ic Anadolu,Yapi Malzemeleri,6,6,delivered
+SO-100170,2025-08-08,2025-08-15,2025-08-15,2025-08-14,Carrier A,Export-EU,Elektrik,8,8,delivered
+SO-100171,2025-08-02,2025-08-08,2025-08-10,2025-08-09,Carrier A,Ege,Endustriyel Ekipman,1,1,delivered
+SO-100172,2026-04-08,2026-04-19,2026-04-21,,Carrier B,Ege,Kimyasal,1,0,cancelled
+SO-100173,2026-03-21,2026-03-24,2026-03-26,2026-03-24,Carrier A,Ege,Yapi Malzemeleri,4,4,delivered
+SO-100174,2026-03-12,2026-03-15,2026-03-15,2026-03-12,Carrier A,Ege,Yapi Malzemeleri,5,5,delivered
+SO-100175,2025-12-16,2025-12-20,2025-12-20,2025-12-17,Carrier B,Export-EU,Elektrik,7,7,delivered
+SO-100176,2026-03-19,2026-03-26,2026-03-26,2026-03-25,Carrier A,Ic Anadolu,Yapi Malzemeleri,6,6,delivered
+SO-100177,2025-08-28,2025-09-05,2025-09-05,2025-09-03,Carrier C,Marmara,Hirdavat,6,6,delivered
+SO-100178,2026-05-25,2026-05-31,2026-06-02,2026-06-04,Carrier A,Marmara,Yapi Malzemeleri,4,4,delivered
+SO-100179,2025-12-30,2026-01-04,2026-01-04,2026-01-04,Carrier C,Ege,Elektrik,5,5,delivered
+SO-100180,2026-06-08,2026-06-14,2026-06-14,2026-06-11,Carrier C,Marmara,Hirdavat,2,2,delivered
+SO-100181,2025-08-25,2025-09-02,2025-09-02,2025-08-30,Carrier C,Ege,Elektrik,6,6,delivered
+SO-100182,2025-12-29,2026-01-04,2026-01-04,2026-01-03,Carrier C,Karadeniz,Yapi Malzemeleri,2,2,delivered
+SO-100183,2026-03-12,2026-03-21,2026-03-23,2026-03-21,Carrier A,Ic Anadolu,Yapi Malzemeleri,2,2,delivered
+SO-100184,2025-12-28,2026-01-04,2026-01-05,2026-01-08,Carrier B,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100185,2025-12-10,2025-12-24,2025-12-25,2025-12-24,Carrier A,Ic Anadolu,Yapi Malzemeleri,8,8,delivered
+SO-100186,2025-08-30,2025-09-13,2025-09-13,2025-09-10,Carrier C,Ic Anadolu,Elektrik,2,2,delivered
+SO-100187,2025-11-17,2025-11-27,2025-11-27,2025-11-28,Carrier B,Marmara,Endustriyel Ekipman,2,2,delivered
+SO-100188,2025-09-26,2025-10-05,2025-10-05,2025-10-03,Carrier A,Ic Anadolu,Yapi Malzemeleri,8,8,delivered
+SO-100189,2025-10-19,2025-10-22,2025-10-23,2025-10-22,Carrier C,Ic Anadolu,Yapi Malzemeleri,2,1,delivered
+SO-100190,2026-03-07,2026-03-17,2026-03-18,2026-03-15,Carrier A,Karadeniz,Kimyasal,5,5,delivered
+SO-100191,2026-02-16,2026-02-23,2026-02-24,2026-02-24,Carrier B,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100192,2026-02-07,2026-02-13,2026-02-13,2026-02-11,Carrier B,Marmara,Endustriyel Ekipman,4,4,delivered
+SO-100193,2025-11-10,2025-11-22,2025-11-22,2025-11-21,Carrier A,Ege,Endustriyel Ekipman,8,8,delivered
+SO-100194,2026-06-16,2026-06-19,2026-06-19,2026-06-18,Carrier B,Marmara,Yapi Malzemeleri,3,3,delivered
+SO-100195,2025-08-01,2025-08-07,2025-08-07,2025-08-08,Carrier C,Ege,Kimyasal,4,3,delivered
+SO-100196,2025-11-03,2025-11-15,2025-11-15,2025-11-14,Carrier A,Karadeniz,Yapi Malzemeleri,8,8,delivered
+SO-100197,2025-08-13,2025-08-27,2025-08-28,2025-08-26,Carrier B,Marmara,Elektrik,5,5,delivered
+SO-100198,2025-11-01,2025-11-10,2025-11-11,2025-11-12,Carrier A,Ege,Elektrik,8,8,delivered
+SO-100199,2026-06-17,2026-06-26,2026-06-27,2026-06-28,Carrier B,Export-EU,Hirdavat,4,4,delivered
+SO-100200,2025-11-11,2025-11-25,2025-11-26,2025-11-26,Carrier A,Ege,Elektrik,2,2,delivered
+SO-100201,2026-05-28,2026-06-01,2026-06-01,2026-05-30,Carrier C,Ege,Hirdavat,1,1,delivered
+SO-100202,2025-12-28,2026-01-05,2026-01-07,2026-01-06,Carrier C,Ege,Endustriyel Ekipman,4,4,delivered
+SO-100203,2026-03-13,2026-03-18,2026-03-18,2026-03-16,Carrier A,Marmara,Endustriyel Ekipman,1,1,delivered
+SO-100204,2025-12-14,2025-12-22,2025-12-22,2025-12-21,Carrier A,Marmara,Hirdavat,5,4,delivered
+SO-100205,2025-10-06,2025-10-19,2025-10-19,2025-10-19,Carrier B,Ic Anadolu,Elektrik,1,0,delivered
+SO-100206,2026-04-05,2026-04-15,2026-04-15,2026-04-13,Carrier B,Ege,Elektrik,1,1,delivered
+SO-100207,2026-06-19,2026-07-03,2026-07-05,2026-07-03,Carrier A,Marmara,Yapi Malzemeleri,5,5,delivered
+SO-100208,2025-10-05,2025-10-14,2025-10-14,2025-10-13,Carrier A,Marmara,Yapi Malzemeleri,5,5,delivered
+SO-100209,2026-04-11,2026-04-24,2026-04-26,2026-04-24,Carrier A,Karadeniz,Endustriyel Ekipman,2,2,delivered
+SO-100210,2025-10-04,2025-10-09,2025-10-09,2025-10-06,Carrier C,Marmara,Yapi Malzemeleri,6,6,delivered
+SO-100211,2026-03-19,2026-03-25,2026-03-25,2026-03-24,Carrier B,Ic Anadolu,Endustriyel Ekipman,4,4,delivered
+SO-100212,2026-04-14,2026-04-20,2026-04-22,2026-04-21,Carrier C,Ege,Yapi Malzemeleri,2,1,delivered
+SO-100213,2025-12-12,2025-12-24,2025-12-25,2025-12-24,Carrier B,Ege,Elektrik,4,4,delivered
+SO-100214,2026-03-26,2026-04-04,2026-04-04,2026-04-04,Carrier C,Marmara,Hirdavat,8,8,delivered
+SO-100215,2025-10-08,2025-10-13,2025-10-13,2025-10-13,Carrier A,Marmara,Elektrik,5,5,delivered
+SO-100216,2025-07-29,2025-08-03,2025-08-03,2025-08-02,Carrier A,Ege,Elektrik,7,7,delivered
+SO-100217,2025-08-05,2025-08-12,2025-08-14,2025-08-11,Carrier C,Ic Anadolu,Yapi Malzemeleri,8,8,delivered
+SO-100218,2025-12-11,2025-12-15,2025-12-15,2025-12-13,Carrier C,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100219,2026-05-26,2026-06-06,2026-06-06,2026-06-06,Carrier A,Ege,Elektrik,1,1,delivered
+SO-100220,2025-08-16,2025-08-29,2025-08-31,2025-08-30,Carrier A,Ege,Hirdavat,6,6,delivered
+SO-100221,2025-12-14,2025-12-28,2025-12-28,2025-12-26,Carrier B,Marmara,Hirdavat,4,4,delivered
+SO-100222,2026-03-14,2026-03-19,2026-03-19,2026-03-17,Carrier A,Ege,Elektrik,3,3,delivered
+SO-100223,2025-09-12,2025-09-20,2025-09-20,2025-09-20,Carrier A,Marmara,Hirdavat,2,2,delivered
+SO-100224,2026-03-21,2026-03-30,2026-04-01,2026-03-30,Carrier C,Ege,Hirdavat,2,2,delivered
+SO-100225,2025-10-20,2025-10-28,2025-10-29,2025-10-29,Carrier A,Marmara,Hirdavat,8,8,delivered
+SO-100226,2026-04-22,2026-04-30,2026-04-30,2026-05-05,Carrier B,Ege,Hirdavat,2,2,delivered
+SO-100227,2026-01-28,2026-02-02,2026-02-02,2026-01-31,Carrier A,Marmara,Yapi Malzemeleri,8,8,delivered
+SO-100228,2026-01-16,2026-01-20,2026-01-21,2026-01-21,Carrier A,Ege,Yapi Malzemeleri,3,3,delivered
+SO-100229,2025-09-03,2025-09-10,2025-09-10,2025-09-09,Carrier B,Ege,Endustriyel Ekipman,2,2,delivered
+SO-100230,2025-12-17,2025-12-21,2025-12-22,2025-12-21,Carrier A,Export-EU,Elektrik,5,5,delivered
+SO-100231,2026-05-09,2026-05-12,2026-05-12,2026-05-09,Carrier B,Ege,Hirdavat,1,0,delivered
+SO-100232,2025-07-08,2025-07-17,2025-07-18,2025-07-15,Carrier A,Karadeniz,Endustriyel Ekipman,3,3,delivered
+SO-100233,2026-04-03,2026-04-16,2026-04-17,2026-04-15,Carrier C,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100234,2025-12-27,2026-01-05,2026-01-05,2026-01-05,Carrier B,Marmara,Hirdavat,1,1,delivered
+SO-100235,2026-03-20,2026-03-23,2026-03-24,2026-03-25,Carrier C,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100236,2026-02-28,2026-03-13,2026-03-13,2026-03-12,Carrier A,Ege,Hirdavat,8,5,delivered
+SO-100237,2025-12-05,2025-12-16,2025-12-16,2025-12-15,Carrier A,Ic Anadolu,Yapi Malzemeleri,2,1,delivered
+SO-100238,2025-10-21,2025-10-27,2025-10-28,2025-10-26,Carrier A,Karadeniz,Endustriyel Ekipman,2,2,delivered
+SO-100239,2026-02-14,2026-02-20,2026-02-20,2026-02-22,Carrier B,Ege,Endustriyel Ekipman,2,1,delivered
+SO-100240,2025-08-21,2025-09-03,2025-09-03,2025-09-04,Carrier A,Ic Anadolu,Yapi Malzemeleri,1,1,delivered
+SO-100241,2026-01-30,2026-02-07,2026-02-07,2026-02-05,Carrier A,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100242,2025-08-04,2025-08-08,2025-08-08,2025-08-06,Carrier A,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100243,2026-02-23,2026-03-01,2026-03-02,2026-02-28,Carrier A,Karadeniz,Endustriyel Ekipman,2,2,delivered
+SO-100244,2026-02-15,2026-02-21,2026-02-22,2026-02-21,Carrier A,Marmara,Endustriyel Ekipman,4,4,delivered
+SO-100245,2025-07-31,2025-08-07,2025-08-09,2025-08-07,Carrier A,Marmara,Hirdavat,4,3,delivered
+SO-100246,2026-04-03,2026-04-10,2026-04-10,2026-04-07,Carrier A,Export-EU,Yapi Malzemeleri,2,2,delivered
+SO-100247,2025-11-29,2025-12-08,2025-12-10,2025-12-09,Carrier B,Export-EU,Endustriyel Ekipman,3,2,delivered
+SO-100248,2026-04-14,2026-04-20,2026-04-22,2026-04-22,Carrier A,Ic Anadolu,Yapi Malzemeleri,4,4,delivered
+SO-100249,2025-07-16,2025-07-26,2025-07-26,2025-07-29,Carrier A,Marmara,Kimyasal,4,4,delivered
+SO-100250,2025-09-04,2025-09-12,2025-09-14,2025-09-15,Carrier B,Karadeniz,Hirdavat,1,1,delivered
+SO-100251,2025-12-28,2026-01-11,2026-01-11,2026-01-10,Carrier C,Marmara,Kimyasal,8,8,delivered
+SO-100252,2025-09-07,2025-09-19,2025-09-19,2025-09-16,Carrier A,Ege,Kimyasal,4,4,delivered
+SO-100253,2025-10-29,2025-11-04,2025-11-05,2025-11-07,Carrier B,Marmara,Endustriyel Ekipman,3,3,delivered
+SO-100254,2026-02-27,2026-03-02,2026-03-03,2026-02-28,Carrier C,Export-EU,Elektrik,5,5,delivered
+SO-100255,2025-08-22,2025-09-01,2025-09-03,2025-09-03,Carrier B,Export-EU,Endustriyel Ekipman,3,2,delivered
+SO-100256,2026-03-05,2026-03-12,2026-03-12,2026-03-11,Carrier C,Ic Anadolu,Kimyasal,5,5,delivered
+SO-100257,2025-08-07,2025-08-20,2025-08-21,2025-08-21,Carrier C,Marmara,Endustriyel Ekipman,8,8,delivered
+SO-100258,2025-09-02,2025-09-09,2025-09-09,2025-09-11,Carrier A,Ege,Endustriyel Ekipman,7,7,delivered
+SO-100259,2026-01-31,2026-02-06,2026-02-06,2026-02-05,Carrier A,Marmara,Kimyasal,3,3,delivered
+SO-100260,2026-04-16,2026-04-23,2026-04-24,2026-04-22,Carrier B,Export-EU,Hirdavat,1,1,delivered
+SO-100261,2025-09-01,2025-09-14,2025-09-14,2025-09-13,Carrier C,Marmara,Kimyasal,1,1,delivered
+SO-100262,2025-10-18,2025-10-22,2025-10-22,2025-10-20,Carrier B,Marmara,Yapi Malzemeleri,2,2,delivered
+SO-100263,2026-06-03,2026-06-17,2026-06-19,2026-06-17,Carrier A,Ic Anadolu,Yapi Malzemeleri,5,5,delivered
+SO-100264,2026-06-27,2026-07-02,2026-07-02,2026-07-01,Carrier B,Ege,Endustriyel Ekipman,4,4,delivered
+SO-100265,2026-01-29,2026-02-11,2026-02-13,2026-02-10,Carrier A,Karadeniz,Endustriyel Ekipman,3,3,delivered
+SO-100266,2025-12-11,2025-12-20,2025-12-20,2025-12-19,Carrier C,Marmara,Endustriyel Ekipman,2,2,delivered
+SO-100267,2025-11-04,2025-11-13,2025-11-14,2025-11-14,Carrier B,Karadeniz,Yapi Malzemeleri,5,5,delivered
+SO-100268,2026-02-09,2026-02-14,2026-02-14,2026-02-15,Carrier B,Marmara,Hirdavat,8,8,delivered
+SO-100269,2026-02-01,2026-02-12,2026-02-12,2026-02-11,Carrier C,Marmara,Yapi Malzemeleri,7,7,delivered
+SO-100270,2025-10-16,2025-10-26,2025-10-26,2025-10-26,Carrier B,Ege,Elektrik,3,3,delivered
+SO-100271,2025-07-09,2025-07-17,2025-07-17,2025-07-15,Carrier B,Marmara,Hirdavat,5,5,delivered
+SO-100272,2025-08-25,2025-09-02,2025-09-03,2025-09-01,Carrier C,Ege,Elektrik,5,5,delivered
+SO-100273,2026-06-15,2026-06-25,2026-06-25,2026-06-26,Carrier C,Marmara,Endustriyel Ekipman,7,7,delivered
+SO-100274,2025-11-30,2025-12-08,2025-12-10,2025-12-07,Carrier C,Marmara,Yapi Malzemeleri,3,3,delivered
+SO-100275,2025-12-24,2026-01-07,2026-01-08,2026-01-06,Carrier A,Ic Anadolu,Yapi Malzemeleri,3,3,delivered
+SO-100276,2025-12-18,2025-12-21,2025-12-23,2025-12-23,Carrier B,Marmara,Hirdavat,4,4,delivered
+SO-100277,2026-04-12,2026-04-18,2026-04-18,2026-04-17,Carrier A,Ic Anadolu,Endustriyel Ekipman,2,2,delivered
+SO-100278,2025-07-24,2025-08-06,2025-08-06,2025-08-04,Carrier C,Ic Anadolu,Yapi Malzemeleri,7,7,delivered
+SO-100279,2025-07-31,2025-08-12,2025-08-13,2025-08-11,Carrier B,Marmara,Kimyasal,4,4,delivered
+SO-100280,2025-10-09,2025-10-16,2025-10-16,2025-10-15,Carrier A,Ic Anadolu,Elektrik,7,7,delivered
+SO-100281,2025-12-25,2026-01-03,2026-01-03,2026-01-03,Carrier A,Marmara,Hirdavat,4,4,delivered
+SO-100282,2026-03-02,2026-03-05,2026-03-07,2026-03-07,Carrier A,Ege,Endustriyel Ekipman,6,6,delivered
+SO-100283,2025-12-27,2026-01-01,2026-01-01,2026-01-02,Carrier B,Marmara,Kimyasal,6,6,delivered
+SO-100284,2025-12-09,2025-12-23,2025-12-23,2025-12-23,Carrier A,Karadeniz,Yapi Malzemeleri,7,7,delivered
+SO-100285,2026-06-08,2026-06-18,2026-06-18,2026-06-17,Carrier A,Ege,Yapi Malzemeleri,6,6,delivered
+SO-100286,2025-08-28,2025-08-31,2025-08-31,2025-08-31,Carrier C,Ege,Kimyasal,6,6,delivered
+SO-100287,2026-01-25,2026-02-06,2026-02-06,2026-02-05,Carrier C,Export-EU,Kimyasal,3,3,delivered
+SO-100288,2026-01-14,2026-01-21,2026-01-23,2026-01-24,Carrier A,Marmara,Endustriyel Ekipman,1,1,delivered
+SO-100289,2025-12-20,2025-12-29,2025-12-29,2025-12-31,Carrier A,Export-EU,Yapi Malzemeleri,8,8,delivered
+SO-100290,2026-04-21,2026-05-04,2026-05-06,2026-05-03,Carrier C,Ic Anadolu,Endustriyel Ekipman,7,7,delivered
+SO-100291,2025-10-06,2025-10-19,2025-10-21,2025-10-22,Carrier B,Export-EU,Hirdavat,3,3,delivered
+SO-100292,2026-06-14,2026-06-18,2026-06-19,2026-06-19,Carrier B,Export-EU,Hirdavat,1,1,delivered
+SO-100293,2025-10-30,2025-11-06,2025-11-06,2025-11-04,Carrier A,Export-EU,Endustriyel Ekipman,8,8,delivered
+SO-100294,2026-01-15,2026-01-21,2026-01-23,2026-01-21,Carrier A,Marmara,Yapi Malzemeleri,1,1,delivered
+SO-100295,2026-01-07,2026-01-20,2026-01-21,2026-01-20,Carrier A,Karadeniz,Elektrik,1,1,delivered
+SO-100296,2026-05-07,2026-05-19,2026-05-21,2026-05-19,Carrier B,Karadeniz,Hirdavat,8,8,delivered
+SO-100297,2025-12-08,2025-12-18,2025-12-18,2025-12-16,Carrier A,Ic Anadolu,Endustriyel Ekipman,6,6,delivered
+SO-100298,2025-10-12,2025-10-15,2025-10-17,2025-10-15,Carrier A,Marmara,Elektrik,5,5,delivered
+SO-100299,2025-07-08,2025-07-20,2025-07-22,2025-07-20,Carrier B,Export-EU,Kimyasal,5,5,delivered
