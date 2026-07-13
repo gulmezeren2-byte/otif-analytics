@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
+🇹🇷 Türkçesi: [README.tr.md](README.tr.md)
+
 > The delivery KPI on the management slide says **98.0%**.
 > Measured the way the customer actually experiences it, the same orders score **59.1%**.
 > This project shows, step by step, where that **~39-point gap** hides — and ships a Streamlit tool so you can run the same audit on your own order data.
