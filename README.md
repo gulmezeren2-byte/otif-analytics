@@ -1,10 +1,12 @@
 # OTIF Analytics — how honest is your on-time delivery KPI?
 
+![Python](https://img.shields.io/badge/python-3.10+-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+
 > The delivery KPI on the management slide says **98.0%**.
 > Measured the way the customer actually experiences it, the same orders score **59.1%**.
-> This project shows, step by step, where those **39 points** hide — and ships a Streamlit tool so you can run the same audit on your own order data.
+> This project shows, step by step, where that **~39-point gap** hides — and ships a Streamlit tool so you can run the same audit on your own order data.
 
-Most companies don't have a delivery problem *and* a measurement problem — they have a measurement problem that hides the delivery problem. I designed this study around the five definition choices that quietly inflate "on-time" numbers: which date you anchor to, how much tolerance you grant, whether partial shipments count, and what happens to cancelled orders.
+Most companies don't have a delivery problem *and* a measurement problem — they have a measurement problem that hides the delivery problem. I designed this study around the four definition choices that quietly inflate "on-time" numbers: which date you anchor to, how much tolerance you grant, whether partial shipments count, and what happens to cancelled orders.
 
 ## The metric ladder
 
@@ -14,7 +16,7 @@ Same 4,000 orders. Five definitions, from the one on the slide to the one the cu
 
 | # | Definition | Result | What changed |
 |---|------------|--------|--------------|
-| 1 | Promised date, ±3-day tolerance | **98.0%** | The reported KPI |
+| 1 | Promised date, +3-day tolerance | **98.0%** | The reported KPI |
 | 2 | Promised date, strict | **78.0%** | Tolerance window removed: −20.0 pts |
 | 3 | *Requested* date, strict | **64.3%** | Sales padding exposed (promises average +0.7 days vs. what the customer asked): −13.7 pts |
 | 4 | **OTIF** — requested date + complete order | **59.1%** | Partial shipments counted: −5.2 pts |
@@ -75,18 +77,18 @@ The Streamlit app accepts your own CSV. Expected columns:
 
 ## Roadmap
 
-- [ ] Root-cause pareto: late reasons by category / region / month
+- [ ] Root-cause Pareto: late reasons by category / region / month
 - [ ] Cost-of-lateness estimator (penalty clauses, expedited freight)
 - [ ] Power BI template for the same metric ladder
 - [ ] Türkçe rapor şablonu
 
 ## 🇹🇷 Türkçe özet
 
-Yönetim sunumundaki "zamanında teslimat" metriği %98 gösterirken, müşterinin yaşadığı gerçek (OTIF: istenen tarihte + eksiksiz) %59 olabilir. Bu çalışma aradaki farkın tam olarak nerede saklandığını beş adımlık bir metrik merdiveniyle gösteriyor; kendi sipariş verinizi yükleyip aynı denetimi yapabileceğiniz bir Streamlit aracı içeriyor. Veri tamamen sentetiktir.
+Yönetim sunumundaki "zamanında teslimat" metriği %98 gösterirken, müşterinin yaşadığı gerçek (OTIF: istenen tarihte + eksiksiz) %59 olabilir. Bu çalışma aradaki farkın tam olarak nerede saklandığını beş basamaklı bir metrik merdiveniyle gösteriyor; kendi sipariş verinizi yükleyip aynı denetimi yapabileceğiniz bir Streamlit aracı içeriyor. Veri tamamen sentetiktir.
 
 ## About
 
-Designed and built by **[Eren Gülmez](https://www.linkedin.com/in/erengulmez)** — industrial engineer, İstanbul. I design the measurement system first, then direct modern tooling to ship it; the metric definitions and the business interpretation above are the actual product — the code is the vehicle.
+Designed and built by **[Eren Gülmez](https://www.linkedin.com/in/erengulmez)** — industrial engineer, İstanbul. First entry in my *measurement honesty* series: metrics should describe reality, not decorate slides. I design the measurement system first, then direct modern tooling to ship it; the metric definitions and the business interpretation above are the actual product — the code is the vehicle.
 
 Part of an open industrial-engineering toolkit → **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)**
 
