@@ -68,7 +68,7 @@ if uploaded is not None:
         st.stop()
 else:
     raw = load_sample()
-    st.info("Using the bundled synthetic sample (4,000 orders). Upload a CSV to analyze your own data.")
+    st.info(f"Using the bundled synthetic sample ({len(raw):,} orders). Upload a CSV to analyze your own data.")
 
 df = prepare(raw)
 
@@ -132,7 +132,7 @@ if "carrier" in df.columns:
         .agg(otif_pct=lambda s: s.mean() * 100, orders="size")
         .sort_values("otif_pct")
     )
-    st.dataframe(by_carrier.style.format({"otif_pct": "{:.1f}%"}), use_container_width=True)
+    st.dataframe(by_carrier.style.format({"otif_pct": "{:.1f}%"}), width="stretch")
 
 st.caption(
     "Built by Eren Gülmez — part of an open industrial-engineering toolkit. "
